@@ -1,8 +1,23 @@
-# Spell-Checker-Using-TextBlob-
-Created a Python script that utilizes the TextBlob library to check and correct spelling errors in user-inputted words. Key features include:
+# Script Title
+<!--Remove the below lines and add yours -->
+Here, you can input any word and check if it is having a correct spelling or not.
 
-**Natural Language Processing**: Implemented TextBlob for text analysis, including sentiment evaluation and noun phrase extraction.
-**Interactive User Input**: Developed a loop for users to input words, displaying original and corrected spellings.
-**Installation Guidance**: Provided clear instructions for installing the TextBlob library, ensuring compatibility with Jupyter Notebook and other environments.
+### Prerequisites
+<!--Remove the below lines and add yours -->
+First thing which you need to install is textblob library
+<!--Install library-->
+>pip install textblob
+<!--For jupyter nb-->
+You need to run this command in your terminal or your ide terminal.
+<!--for jp nb-->
+If you are using Jupyter Notebook you need to use the below command
+<!--for jp nb-->
+>import sys 
+<!--command-->
+>!{sys.executable} -m pip install textblob 
 
-This tool enhances writing accuracy by offering real-time spelling corrections.
+### How to run the script
+<!--Remove the below lines and add yours -->
+You can first install the textblob library and then you can run the python script.
+
+
